@@ -1,7 +1,7 @@
 {
   "name": "node-apply",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "a simpler way to create a continuation function with initial arguments and then be called with the remaining arguments",
   "main": "index.js",
   "files": [
     "LICENSE",
