@@ -1,6 +1,6 @@
 # apply
 
-Detects and measures the latency of the NodeJS event loop
+a simpler way to create a continuation function with initial arguments and then be called with the remaining arguments
 
 ----
 <a href="https://nodei.co/npm/node-apply/"><img src="https://nodei.co/npm/node-apply.png?downloads=true"></a>
