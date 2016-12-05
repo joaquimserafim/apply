@@ -18,7 +18,7 @@ a simpler way to create a continuation function with initial arguments and then 
 
 #### first example
 ```js
-const apply = require('node-appy')
+const apply = require('node-apply')
 
 const foo = apply(puts, 'one')
 
@@ -32,7 +32,7 @@ function puts (one, two, three) {
 
 #### second example
 ```js
-const apply = require('node-appy')
+const apply = require('node-apply')
 const async = require('lasync')
 
 async.waterfall(
