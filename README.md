@@ -53,4 +53,7 @@ function putsAsync (...args) {
 ```
 
 
+**PS:** with NodeJS 7 should use the `bind` function instead
+
+
 #### ISC License (ISC)
